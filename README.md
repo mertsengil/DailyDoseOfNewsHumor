@@ -30,11 +30,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 </p>
 
 
-### Built With
 
-- [Python](https://python.org)
-- [Groq API](https://groq.com/)
-- [LangChain](https://python.langchain.com/docs/integrations/chat/openai/)
 
 ## Getting Started
 
@@ -63,6 +59,12 @@ git clone https://github.com/mertsengil/DailyDoseOfNewsHumor.git
 pip install -r requirements.txt
 ```
 
+### Built With
+
+- [Python](https://python.org)
+- [Groq API](https://groq.com/)
+- [LangChain](https://python.langchain.com/docs/integrations/chat/openai/)
+
   <br />
 ### USAGE
 Run the script with the following command:
@@ -72,7 +74,7 @@ streamlit run /Users/path/app.py
 
 
   <br />
-Project Link: https://github.com/yourusername/DailyDoseOfNewsHumor
+Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor/)
 
 
 
