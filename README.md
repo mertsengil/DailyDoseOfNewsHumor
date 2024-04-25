@@ -13,10 +13,11 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Built With](#built-with)
+  
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Built With](#built-with)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
