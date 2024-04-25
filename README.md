@@ -3,7 +3,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 <br />
 
 <p align="center">
-  <img src="photos/logo.png" alt="Project Logo" width="370" height="80">
+  <img src="photos/logo.png" alt="Project Logo" width="400" height="50">
 </p>
 
 <p align="center">
