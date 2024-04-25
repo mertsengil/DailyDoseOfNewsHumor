@@ -38,11 +38,11 @@ How It Works:
 Input: The user provides the text of a news article.
 Processing: The AI model processes the text, identifying key information and thematic elements.
 Humor Injection: Using a custom-built humor algorithm, the tool infuses the summary with jokes and witty remarks that are relevant to the news content.
-Output: The final output is a concise, humorous summary of the original article, presented in Turkish.
+Output: The final output is a concise, humorous summary of the original article, presented in whatever language the news is in.
 Features:
 Language Understanding: Employs advanced NLP to deeply understand the content and context of the news.
-Custom Humor Algorithm: A specially designed algorithm to add humor that resonates with the cultural and topical nuances of the news.
-User-Friendly Interface: Simple and intuitive interface, allowing users to easily input news articles and receive summaries quickly.
+Custom Humor Algorithm: A prompt designed algorithm to add humor that resonates with the cultural and topical nuances of the news. Prompt engineering was used to control LLMs.
+User-Friendly Interface: Simple and intuitive interface, allowing users to easily input news articles and receive summaries quickly. You can view the selected news details (Title / content / url). And there is an extra button to summarize.
 Multi-Article Handling: Capable of processing and summarizing multiple articles at once, providing quick and efficient outputs.
 Use Cases:
 Entertainment: Provides a fun way to catch up on news without the monotony of traditional news reading.
