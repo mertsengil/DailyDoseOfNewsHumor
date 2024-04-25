@@ -32,7 +32,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 Funny News Summarizer
 Funny News Summarizer is an innovative AI-powered tool designed to transform ordinary news articles into engaging, humorous summaries. This project utilizes advanced natural language processing techniques to interpret the content of news articles and creatively rephrase them in Turkish, ensuring the summaries not only convey the essential information but also entertain the reader with witty commentary and clever jokes.
 
-The core of the application is built on OpenAI's GPT-3 model, a cutting-edge language model known for its ability to generate text that is both coherent and contextually relevant. The tool leverages this technology to analyze the tone, style, and facts of the original news content, then produces a summary that highlights the amusing aspects without compromising the news's integrity.
+The core of the application is built on llama3-8b-8192 model, a cutting-edge language model known for its ability to generate text that is both coherent and contextually relevant. The tool leverages this technology to analyze the tone, style, and facts of the original news content, then produces a summary that highlights the amusing aspects without compromising the news's integrity.
 
 How It Works:
 Input: The user provides the text of a news article.
