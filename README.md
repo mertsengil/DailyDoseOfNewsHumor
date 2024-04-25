@@ -106,6 +106,7 @@ Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://git
 
  <br />
 ### Groq Cloud
+
 Run the script with the following command:
 ```bash
 export GROQ_API_KEY=<your-api-key-here>
