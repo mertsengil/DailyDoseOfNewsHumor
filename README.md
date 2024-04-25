@@ -36,7 +36,8 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 - [Groq API](https://groq.com/)
 - [LangChain](https://python.langchain.com/docs/integrations/chat/openai/)
 
-#### Getting Started
+## Getting Started
+
 
 ### Prerequisites
 
