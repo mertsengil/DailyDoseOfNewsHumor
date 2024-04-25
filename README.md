@@ -51,6 +51,10 @@ This tool is ideal for users looking to add a light-hearted touch to their daily
 </p>
 <br />
 
+<p float="left">
+  <img src="photos/photo-2.png" alt="Screen Shot 2" width="49%">
+  <img src="photos/photo-1.png" alt="Screen Shot" width="49%">
+</p>
 
 
 ## Getting Started
