@@ -19,8 +19,8 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
   - [Installation](#installation)
 - [Built With](#built-with)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Groq Cloud](#GROQCLOUD)
+
 
 
 ## About the Project
@@ -103,6 +103,22 @@ streamlit run /Users/path/app.py
 
   <br />
 Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor)
+
+
+### Groq Cloud
+Run the script with the following command:
+```bash
+export GROQ_API_KEY=<your-api-key-here>
+```
+
+Install the Groq Python library:
+```bash
+pip install groq
+```
+
+Models are:
+LLaMA3 8b | LLaMA3 70b | LLaMA2 70b | Mixtral 8x7b | Gemma 7b
+
 
 
 
