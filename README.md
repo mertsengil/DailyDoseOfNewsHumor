@@ -47,11 +47,13 @@ sudo apt install python3-pip
 ### Installation
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/mertsengil/DailyDoseOfNewsHumor.git
 ```
-  <br />
+<br />
 ### Install the required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
