@@ -4,7 +4,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 <h1 align="center">Daily Dose Of News Humor</h1>
 
 <p align="center">
-  <img src="photos/logo.png" alt="Project Logo" width="400" height="175">
+  <img src="photos/logo.png" alt="Project Logo" width="410" height="150">
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 ## About the Project
 
 <p float="left">
-  <img src="photo-1.png" alt="Screen Shot 2" width="50%">
-  <img src="photo-2.png" alt="Screen Shot" width="50%">
+  <img src="photos/photo-1.png" alt="Screen Shot 2" width="50%">
+  <img src="photos/photo-2.png" alt="Screen Shot" width="50%">
 </p>
 
 
