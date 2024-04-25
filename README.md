@@ -19,7 +19,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
   - [Installation](#installation)
 - [Built With](#built-with)
 - [Usage](#usage)
-- [Groq Cloud](#GROQCLOUD)
+- [Groq Cloud](#Groq-Cloud)
 
 
 
