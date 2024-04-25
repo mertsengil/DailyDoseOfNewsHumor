@@ -80,6 +80,7 @@ Clone the repository:
 git clone https://github.com/mertsengil/DailyDoseOfNewsHumor.git
 ```
 <br />
+
 ### Install the required packages:
 
 ```bash
