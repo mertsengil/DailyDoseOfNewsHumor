@@ -103,7 +103,7 @@ streamlit run /Users/path/app.py
 
   <br />
   
-Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor)
+Project Link: [https://github.com/mertsengil/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor)
 
  <br />
  
