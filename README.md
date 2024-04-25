@@ -1,7 +1,6 @@
 # DailyDoseOfNewsHumor
 Funny News Summarizer: This AI-powered project takes news articles and generates humorous summaries in Turkish, designed to make readers laugh using clever jokes and witty commentary.
 <br />
-<h1 align="center">Daily Dose Of News Humor</h1>
 
 <p align="center">
   <img src="photos/logo.png" alt="Project Logo" width="410" height="150">
@@ -22,13 +21,12 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
-## About the Project
 
 ## About the Project
 
 <p float="left">
-  <img src="photos/photo-1.png" alt="Screen Shot 2" width="50%">
-  <img src="photos/photo-2.png" alt="Screen Shot" width="50%">
+  <img src="photos/photo-1.png" alt="Screen Shot 2" width=49%">
+  <img src="photos/photo-2.png" alt="Screen Shot" width="49%">
 </p>
 
 
@@ -38,7 +36,7 @@ Funny News Summarizer: This AI-powered project takes news articles and generates
 - [Groq API](https://groq.com/)
 - [LangChain](https://python.langchain.com/docs/integrations/chat/openai/)
 
-## Getting Started
+#### Getting Started
 
 ### Prerequisites
 
