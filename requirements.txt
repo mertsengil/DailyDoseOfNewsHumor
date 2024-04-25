@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+json5==0.9.10
+json
+requests
+beautifulsoup4
+groq
+langchain-core==0.3.2
+langchain-groq
+langchain
+MySQL-python
+
