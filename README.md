@@ -1,4 +1,4 @@
-# DailyDoseOfNewsHumor
+# Daily Dose Of News Humor Project !!!!!!
 Funny News Summarizer: This AI-powered project takes news articles and generates humorous summaries in Turkish, designed to make readers laugh using clever jokes and witty commentary.
 <br />
 
@@ -104,7 +104,7 @@ streamlit run /Users/path/app.py
   <br />
 Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor)
 
-
+ <br />
 ### Groq Cloud
 Run the script with the following command:
 ```bash
@@ -118,6 +118,10 @@ pip install groq
 
 Models are:
 LLaMA3 8b | LLaMA3 70b | LLaMA2 70b | Mixtral 8x7b | Gemma 7b
+
+###Question:
+
+The project currently only works on one site due to HTML tags. How do we make this project work on all websites?
 
 
 
