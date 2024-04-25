@@ -102,9 +102,11 @@ streamlit run /Users/path/app.py
 
 
   <br />
+  
 Project Link: [https://github.com/yourusername/DailyDoseOfNewsHumor](https://github.com/mertsengil/DailyDoseOfNewsHumor)
 
  <br />
+ 
 ### Groq Cloud
 
 Run the script with the following command:
